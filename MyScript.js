@@ -1,1 +1,1 @@
-alert("welkom op mijn pagina")
+alert("aap banaan man kaas")
